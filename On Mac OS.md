@@ -12,8 +12,7 @@ Here we will be discussing on how to Download and Activated MS 365 Tools. Follow
     
 - To download the MS 365 tools (Word,Excel and PowerPoint etc.) Click on Apps.
     
-- ![copy1.png](/resources/copy1.png)
-
+- ![copy1.png](/_resources/copy1.png)
     
 - After clicking on Apps, you will able to see the Apps page with MS 365 Tools, On the right conner you will see Install apps with blue button.
     
