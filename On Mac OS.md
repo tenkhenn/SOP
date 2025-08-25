@@ -14,7 +14,6 @@ Here we will be discussing on how to Download and Activated MS 365 Tools. Follow
     
 - ![copy1.png](/resources/copy1.png)
 
-- <img src="_resources/copy1.png" alt="crshed" />
     
 - After clicking on Apps, you will able to see the Apps page with MS 365 Tools, On the right conner you will see Install apps with blue button.
     
